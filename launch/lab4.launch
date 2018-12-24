@@ -1,0 +1,4 @@
+<launch>
+	<node name="lab4" pkg="lab4" type="GridLoc.py" output="screen" />
+	<!-- <node name="evader" pkg="lab2" type="evader.py" output="screen" /> -->
+</launch>

@@ -1,0 +1,267 @@
+Iteration = 1
+Index = 12,29,11   Prob = 0.66509028179
+
+Iteration = 2
+Index = 11,22,3   Prob = 0.608085705463
+
+Iteration = 3
+Index = 9,20,3   Prob = 0.399083507448
+
+Iteration = 4
+Index = 9,19,2   Prob = 0.563648707344
+
+Iteration = 5
+Index = 9,19,3   Prob = 0.420663355056
+
+Iteration = 6
+Index = 9,18,2   Prob = 0.328708993778
+
+Iteration = 7
+Index = 9,17,1   Prob = 0.398127675253
+
+Iteration = 8
+Index = 11,16,11   Prob = 0.461575213191
+
+Iteration = 9
+Index = 12,15,2   Prob = 0.519024823364
+
+Iteration = 10
+Index = 12,14,2   Prob = 0.436728128265
+
+Iteration = 11
+Index = 10,14,2   Prob = 0.273809104816
+
+Iteration = 12
+Index = 10,13,2   Prob = 0.385139076323
+
+Iteration = 13
+Index = 11,12,3   Prob = 0.462719838502
+
+Iteration = 14
+Index = 13,12,1   Prob = 0.443233467375
+
+Iteration = 15
+Index = 13,14,1   Prob = 0.312453747086
+
+Iteration = 16
+Index = 16,12,1   Prob = 0.678616525126
+
+Iteration = 17
+Index = 15,12,1   Prob = 0.415454923442
+
+Iteration = 18
+Index = 13,11,2   Prob = 0.286911673547
+
+Iteration = 19
+Index = 12,10,2   Prob = 0.349963991408
+
+Iteration = 20
+Index = 11,9,2   Prob = 0.232972157793
+
+Iteration = 21
+Index = 12,8,5   Prob = 0.42123266407
+
+Iteration = 22
+Index = 13,7,6   Prob = 0.380172043624
+
+Iteration = 23
+Index = 14,6,6   Prob = 0.318166302817
+
+Iteration = 24
+Index = 15,6,7   Prob = 0.27660038562
+
+Iteration = 25
+Index = 17,6,7   Prob = 0.259067298062
+
+Iteration = 26
+Index = 18,6,7   Prob = 0.374724928073
+
+Iteration = 27
+Index = 19,6,7   Prob = 0.268631706118
+
+Iteration = 28
+Index = 20,9,9   Prob = 0.389024550194
+
+Iteration = 29
+Index = 20,10,9   Prob = 0.415254390162
+
+Iteration = 30
+Index = 20,11,9   Prob = 0.228563148105
+
+Iteration = 31
+Index = 20,13,9   Prob = 0.259106801978
+
+Iteration = 32
+Index = 19,14,12   Prob = 0.544145171375
+
+Iteration = 33
+Index = 17,14,12   Prob = 0.246635951377
+
+Iteration = 34
+Index = 16,14,12   Prob = 0.351859419255
+
+Iteration = 35
+Index = 18,21,9   Prob = 0.702287819775
+
+Iteration = 36
+Index = 19,23,9   Prob = 0.53823962656
+
+Iteration = 37
+Index = 19,24,9   Prob = 0.526814550135
+
+Iteration = 38
+Index = 19,24,9   Prob = 0.356177214499
+
+Iteration = 39
+Index = 19,25,9   Prob = 0.407067065339
+
+Iteration = 40
+Index = 18,26,9   Prob = 0.479343220122
+
+Iteration = 41
+Index = 18,27,11   Prob = 0.404604843972
+
+Iteration = 42
+Index = 17,28,12   Prob = 0.511761088642
+
+Iteration = 43
+Index = 16,28,12   Prob = 0.357086193767
+
+Iteration = 44
+Index = 14,28,12   Prob = 0.238290092324
+
+Iteration = 45
+Index = 13,28,1   Prob = 0.292840902257
+
+Iteration = 46
+Index = 11,25,3   Prob = 0.410122960009
+
+Iteration = 47
+Index = 11,24,3   Prob = 0.319646182286
+
+Iteration = 48
+Index = 11,23,3   Prob = 0.426519918224
+
+Iteration = 49
+Index = 11,22,3   Prob = 0.426074601961
+
+Iteration = 50
+Index = 10,19,3   Prob = 0.415467025916
+
+Iteration = 51
+Index = 9,18,2   Prob = 0.25305529135
+
+Iteration = 52
+Index = 9,15,4   Prob = 0.237803329671
+
+Iteration = 53
+Index = 9,14,4   Prob = 0.454530106259
+
+Iteration = 54
+Index = 9,14,4   Prob = 0.216213610469
+
+Iteration = 55
+Index = 9,13,4   Prob = 0.315646735802
+
+Iteration = 56
+Index = 9,10,3   Prob = 0.322138714775
+
+Iteration = 57
+Index = 9,9,3   Prob = 0.386627885294
+
+Iteration = 58
+Index = 9,9,3   Prob = 0.324835060765
+
+Iteration = 59
+Index = 11,6,6   Prob = 0.365454307288
+
+Iteration = 60
+Index = 12,5,6   Prob = 0.350744409956
+
+Iteration = 61
+Index = 13,5,6   Prob = 0.247432110175
+
+Iteration = 62
+Index = 15,5,6   Prob = 0.225775043967
+
+Iteration = 63
+Index = 16,5,7   Prob = 0.284012215391
+
+Iteration = 64
+Index = 17,5,7   Prob = 0.202585677294
+
+Iteration = 65
+Index = 19,5,7   Prob = 0.404340174584
+
+Iteration = 66
+Index = 20,8,9   Prob = 0.285344573373
+
+Iteration = 67
+Index = 20,9,9   Prob = 0.148855788119
+
+Iteration = 68
+Index = 20,10,9   Prob = 0.42136668255
+
+Iteration = 69
+Index = 20,11,9   Prob = 0.408749941358
+
+Iteration = 70
+Index = 20,13,10   Prob = 0.408456105717
+
+Iteration = 71
+Index = 20,14,9   Prob = 0.305828043808
+
+Iteration = 72
+Index = 20,15,9   Prob = 0.23699326011
+
+Iteration = 73
+Index = 20,15,9   Prob = 0.566021524458
+
+Iteration = 74
+Index = 20,18,9   Prob = 0.426355565143
+
+Iteration = 75
+Index = 20,20,10   Prob = 0.406779311587
+
+Iteration = 76
+Index = 20,20,10   Prob = 0.607863437231
+
+Iteration = 77
+Index = 20,22,10   Prob = 0.463595516755
+
+Iteration = 78
+Index = 19,23,9   Prob = 0.323517345004
+
+Iteration = 79
+Index = 20,25,9   Prob = 0.326770360066
+
+Iteration = 80
+Index = 18,27,12   Prob = 0.366166887334
+
+Iteration = 81
+Index = 20,27,6   Prob = 0.320041113012
+
+Iteration = 82
+Index = 19,27,6   Prob = 0.627190665818
+
+Iteration = 83
+Index = 17,25,1   Prob = 0.329834230405
+
+Iteration = 84
+Index = 16,25,1   Prob = 0.250354631207
+
+Iteration = 85
+Index = 17,26,1   Prob = 0.256138000014
+
+Iteration = 86
+Index = 17,23,11   Prob = 0.52955165202
+
+Iteration = 87
+Index = 18,22,10   Prob = 0.669767329422
+
+Iteration = 88
+Index = 18,22,11   Prob = 0.550916757489
+
+Iteration = 89
+Index = 16,21,1   Prob = 0.438399390122
+
